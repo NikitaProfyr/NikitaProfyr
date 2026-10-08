@@ -5,8 +5,8 @@
 ### 💻 Технологии, с которыми я работаю:
 
 - Языки программирования: Python, JS
-- СУБД: PostgreSQL, MSQLServer 
-- NoSQL СУБД: Redis, MongoDB
+- SQL: PostgreSQL, MSQLServer 
+- NoSQL: Redis, MongoDB
 - Очереди сообщений и распределенные системы: RabbitMQ, Kafka, Celery
 - HTTP Frameworks: Django/DRF, FastApi
 - DevOps: Docker, git, DockerCompose
